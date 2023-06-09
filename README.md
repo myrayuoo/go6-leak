@@ -1,5 +1,8 @@
+# drex IP: 90.200.12.141
+
+
 # drex the skid tool "go6raider" leaked
-- shitty tool made mostly from github srcs, kian, mciem, and other skids
+- shitty tool made mostly from github srcs, kian, mciem, and other ppl
 
 
 
